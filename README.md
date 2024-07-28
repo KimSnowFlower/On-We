@@ -1,8 +1,8 @@
 <h1>강남대학교 On:We 협업 프로젝트</h1> <br>
 
 <h3>Src</h3>
--<h4>Components</h4>
---<h5>App.js</h5>
+-Components<br>
+--App.js<br>
 --<h5>StartScreen.jsx</h5>
 --<h5>TestScreen.jsx</h5>
 --<h5>ResultScreen.jsx</h5>
