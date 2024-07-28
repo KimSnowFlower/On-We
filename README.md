@@ -3,13 +3,13 @@
 <h3>Src</h3>
 -Components<br>
 --App.js<br>
---<h5>StartScreen.jsx</h5>
---<h5>TestScreen.jsx</h5>
---<h5>ResultScreen.jsx</h5>
--<h4>Styles</h4>
---<h5>App.css</h5>
---<h5>TestScreen.css</h5>
-<br>
+--StartScreen.jsx<br>
+--TestScreen.jsx<br>
+--ResultScreen.jsx<br>
+-Styles<<br>
+--App.css<br>
+--TestScreen.css<br>
+<hr>
 
 # 2024 대학리그 축제 부스 이벤트용 프로젝트
 1. 게임에 핵심 반응속도 테스트 만들기
