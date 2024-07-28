@@ -5,10 +5,10 @@
 --App.js<br>
 --StartScreen.jsx<br>
 --TestScreen.jsx<br>
---ResultScreen.jsx<br>
--Styles<<br>
+--ResultScreen.jsx<br><br>
+-Styles<br>
 --App.css<br>
---TestScreen.css<br>
+--TestScreen.css<br><br>
 <hr>
 
 # 2024 대학리그 축제 부스 이벤트용 프로젝트
