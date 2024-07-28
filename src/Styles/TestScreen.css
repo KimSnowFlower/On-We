@@ -1,0 +1,27 @@
+/* src/styles/TestScreen.css */
+.test-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .test-block {
+    width: 600px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    transition: background-color 0.1s ease; /* 전환 시간 0.1초로 줄임 */
+  }
+  
+  .ready {
+    background-color: green;
+  }
+  
+  h1 {
+    text-align: center;
+    color: white;
+  }
+  

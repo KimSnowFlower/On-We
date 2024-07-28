@@ -1,0 +1,19 @@
+/* src/styles/App.css */
+html, body, #root {
+    height: 100%;
+    margin: 0;
+}
+  
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    flex-direction: column;
+}
+  
+button, h1 {
+    margin: 10px;
+}
+  
